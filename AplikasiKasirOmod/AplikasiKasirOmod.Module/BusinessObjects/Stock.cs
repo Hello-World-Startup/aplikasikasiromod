@@ -15,21 +15,14 @@ using DevExpress.Persistent.Validation;
 namespace AplikasiKasirOmod.Module.BusinessObjects
 {
     [DefaultClassOptions]
-    
-    public class Stock : BaseObject
-    { 
-        public Stock(Session session)
-            : base(session)
-        {
-        }
-
+    [DeferredDeletion(false)]
+    public class Stock : XPObject
+    {
+        public Stock(Session session) : base(session) { }
         private double _Jumlah;
         public double Jumlah
         {
-            get
-            {
-                return _Jumlah;
-            }
+            get { return _Jumlah; }
             set
             {
                 if (value < 0) value = 0;

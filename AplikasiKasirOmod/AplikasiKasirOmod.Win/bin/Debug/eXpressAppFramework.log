@@ -10931,3 +10931,1184 @@ Loaded assemblies
    at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
    at System.Threading.ThreadHelper.ThreadStart()
 
+17.09.18 22:23:37.145	================================================================================
+17.09.18 22:23:37.163	Trace Log for AplikasiKasirOmod.Win.vshost.exe is started
+17.09.18 22:23:37.164	================================================================================
+17.09.18 22:23:37.166	System Environment
+	OS Version: Microsoft Windows NT 6.2.9200.0
+	.Net Framework Versions: v2.0.50727, v4.0.30319
+
+	CLR Version: 4.0.30319.42000
+	eXpressApp Version: 17.2.3.0
+Application config
+	Modules=
+	NewVersionServer=
+	EnableDiagnosticActions=False
+17.09.18 22:23:37.336	Initialize application
+=======================
+17.09.18 22:23:37.338		Command line arguments: 
+		E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.vshost.exe
+17.09.18 22:23:37.857	--------------------------------------------------------------------------------
+							Initialize Modules Manager
+
+17.09.18 22:23:37.858	--------------------------------------------------------------------------------
+							
+
+17.09.18 22:23:37.864	--------------------------------------------------------------------------------
+Loaded assemblies
+	Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll
+	Anonymously Hosted DynamicMethods Assembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=InMemory Module
+	AplikasiKasirOmod.Module, Version=1.0.6834.40303, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.dll
+	AplikasiKasirOmod.Module.Win, Version=1.0.6834.40306, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.Win.dll
+	AplikasiKasirOmod.Win, Version=1.0.6834.40307, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.exe
+	DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Data.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Data.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.Win.v17.2.dll
+	DevExpress.ExpressApp.Security.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.v17.2.dll
+	DevExpress.ExpressApp.Security.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.Xpo.v17.2.dll
+	DevExpress.ExpressApp.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.v17.2.dll
+	DevExpress.ExpressApp.Validation.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.v17.2.dll
+	DevExpress.ExpressApp.Validation.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.Win.v17.2.dll
+	DevExpress.ExpressApp.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Win.v17.2.dll
+	DevExpress.ExpressApp.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Xpo.v17.2.dll
+	DevExpress.Office.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Office.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Office.v17.2.Core.dll
+	DevExpress.Persistent.Base.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.Base.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.Base.v17.2.dll
+	DevExpress.Persistent.BaseImpl.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.BaseImpl.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.BaseImpl.v17.2.dll
+	DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Printing.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Printing.v17.2.Core.dll
+	DevExpress.RichEdit.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.RichEdit.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.RichEdit.v17.2.Core.dll
+	DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Utils.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Utils.v17.2.dll
+	DevExpress.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Xpo.v17.2.dll
+	DevExpress.XtraBars.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraBars.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraBars.v17.2.dll
+	DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraEditors.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraEditors.v17.2.dll
+	DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraPrinting.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraPrinting.v17.2.dll
+	DevExpress.XtraReports.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.dll
+	DevExpress.XtraReports.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2.Extensions\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.Extensions.dll
+	DevExpress.XtraRichEdit.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraRichEdit.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraRichEdit.v17.2.dll
+	DevExpress.XtraTreeList.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraTreeList.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraTreeList.v17.2.dll
+	DevExpress.XtraVerticalGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraVerticalGrid.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraVerticalGrid.v17.2.dll
+	Microsoft.VisualStudio.Debugger.Runtime, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities.Sync, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll
+	mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+	System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll
+	System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+	System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll
+	System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+	System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll
+	System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll
+	System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll
+	System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll
+	System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll
+	UIAutomationClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationClient\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationClient.dll
+	UIAutomationTypes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+	vshost32, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.vshost.exe
+17.09.18 22:23:38.066	SetupModules
+17.09.18 22:23:38.219	Customize TypesInfo
+17.09.18 22:23:38.244	The ValueManagerType is initialized by the default value: SimpleValueManager.
+17.09.18 22:23:38.248	Stack trace:
+   at DevExpress.Persistent.Base.ValueManager.CreateValueManager[ValueType](String key)
+   at DevExpress.Persistent.Base.ValueManager.GetValueManager[ValueType](String key)
+   at DevExpress.ExpressApp.SecuritySystem.SetInstance(ISecurityStrategyBase instance)
+   at DevExpress.ExpressApp.XafApplication.InitializeSecuritySystem(ExpressApplicationSetupParameters parameters)
+   at DevExpress.ExpressApp.XafApplication.Setup(ExpressApplicationSetupParameters parameters)
+   at DevExpress.ExpressApp.XafApplication.Setup(String applicationName, IList`1 objectSpaceProviders, ApplicationModulesManager modulesManager, ISecurityStrategyBase security)
+   at DevExpress.ExpressApp.XafApplication.Setup()
+   at AplikasiKasirOmod.Win.Program.Main() in E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\Program.cs:line 46
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+
+17.09.18 22:23:40.227		preferredLanguageName: (User language)
+								userLanguageName: en-US
+
+17.09.18 22:23:40.230		preferredLanguageName: (User language)
+								userFormattingCultureName: en-US
+								selectedFormattingCultureName: 
+
+17.09.18 22:23:40.235	Logon With Parameters
+17.09.18 22:23:40.238		Type: DevExpress.ExpressApp.Actions.PopupWindowShowAction
+								ID: 0e12f866-e497-439c-af55-00e9b75db009
+								Category: Unspecified
+
+17.09.18 22:23:40.820	Generate default Model for Action containers
+17.09.18 22:23:43.179	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:23:43.181		Type: DevExpress.ExpressApp.Actions.SimpleAction
+								ID: Logon
+								Category: PopupActions
+								Controller.Name: DevExpress.ExpressApp.LogonController
+								Context.Name: Log On
+								Context.IsRoot: True
+								Context.SelectedObjects.Count: 1
+								Context.CurrentObject: DevExpress.ExpressApp.Security.AuthenticationStandardLogonParameters
+
+17.09.18 22:23:43.183	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:23:43.183		Type: DevExpress.ExpressApp.Actions.PopupWindowShowAction
+								ID: 0e12f866-e497-439c-af55-00e9b75db009
+								Category: Unspecified
+
+17.09.18 22:23:43.202	--------------------------------------------------------------------------------
+							Start logon process
+
+17.09.18 22:23:43.204	--------------------------------------------------------------------------------
+							Checking Compatibility
+
+17.09.18 22:23:43.207		ConnectionString: XpoProvider=MySql;Server=127.0.0.1;User ID=root;Database=AplikasiKasirOmod;SslMode=none;XpoDataStorePool=True;
+17.09.18 22:23:43.208		ConnectionString: 
+17.09.18 22:23:43.249	Resolve the 'MySql.Data' assembly
+17.09.18 22:23:43.694	--------------------------------------------------------------------------------
+							UpdateDB
+
+17.09.18 22:23:43.700		ConnectionString: XpoProvider=MySql;Server=127.0.0.1;User ID=root;Database=AplikasiKasirOmod;SslMode=none;XpoDataStorePool=True;
+17.09.18 22:23:48.417	--------------------------------------------------------------------------------
+							Logon failed
+
+AplikasiKasirOmod.Win.vshost.exe Error: 0 : 17.09.18 22:23:48.422	================================================================================
+The error occurred:
+
+	Type:       UnableToCreateDBObjectException
+	Message:    Unable to create 'ForeignKey' 'FK_MasterBarang_Stock'. Parent: 'MasterBarang'. Error: Executing Sql 'alter table `MasterBarang` add constraint `FK_MasterBarang_Stock` foreign key (`Stock`) references `Stock`(`Oid`)' with parameters '' exception 'MySql.Data.MySqlClient.MySqlException (0x80004005): Can't create table `aplikasikasiromod`.`#sql-35bc_12` (errno: 150 "Foreign key constraint is incorrectly formed")
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)'
+	Data:       0 entries
+	Stack trace:
+
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecuteSqlSchemaUpdate(String objectTypeName, String objectName, String parentObjectName, String textSql)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.CreateForeignKey(DBTable table, DBForeignKey fk)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ProcessUpdateSchema(Boolean skipIfFirstTableNotExists, DBTable[] tables)
+   at DevExpress.Xpo.DB.DataStoreSerializedBase.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.DB.DataStoreForkBase.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.SimpleDataLayer.<>c__DisplayClass4.<UpdateSchema>b__3()
+   at DevExpress.Xpo.SimpleDataLayer.ReentrancyAndThreadSafetyChecked[T](Func`1 action)
+   at DevExpress.Xpo.SimpleDataLayer.UpdateSchema(Boolean dontCreate, XPClassInfo[] types)
+   at DevExpress.Xpo.SimpleObjectLayer.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, XPClassInfo[] types)
+   at DevExpress.Xpo.Session.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, XPClassInfo[] types)
+   at DevExpress.Xpo.Session.UpdateSchema(XPClassInfo[] types)
+   at DevExpress.ExpressApp.Xpo.XPObjectSpaceProvider.DevExpress.ExpressApp.IObjectSpaceProvider.UpdateSchema()
+   at DevExpress.ExpressApp.Updating.DatabaseUpdaterBase.UpdateCore(IObjectSpace updatingObjectSpace, IList`1 versionInfoList)
+   at DevExpress.ExpressApp.Updating.DatabaseSchemaUpdater.Update()
+   at AplikasiKasirOmod.Win.AplikasiKasirOmodWindowsFormsApplication.AplikasiKasirOmodWindowsFormsApplication_DatabaseVersionMismatch(Object sender, DatabaseVersionMismatchEventArgs e) in E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\WinApplication.cs:line 46
+   at DevExpress.ExpressApp.XafApplication.OnDatabaseVersionMismatch(DatabaseVersionMismatchEventArgs args)
+   at DevExpress.ExpressApp.XafApplication.CheckCompatibilityCore()
+   at DevExpress.ExpressApp.Win.WinApplication.CheckCompatibilityCore()
+   at DevExpress.ExpressApp.XafApplication.CheckCompatibility()
+   at DevExpress.ExpressApp.XafApplication.Logon(PopupWindowShowActionExecuteEventArgs logonWindowArgs)
+	----------------
+	InnerException:
+
+			Type:       SqlExecutionErrorException
+			Message:    Executing Sql 'alter table `MasterBarang` add constraint `FK_MasterBarang_Stock` foreign key (`Stock`) references `Stock`(`Oid`)' with parameters '' exception 'MySql.Data.MySqlClient.MySqlException (0x80004005): Can't create table `aplikasikasiromod`.`#sql-35bc_12` (errno: 150 "Foreign key constraint is incorrectly formed")
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)'
+			Data:       0 entries
+			Stack trace:
+
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecuteSqlSchemaUpdate(String objectTypeName, String objectName, String parentObjectName, String textSql)
+			----------------
+			InnerException:
+
+					Type:       MySqlException
+					Message:    Can't create table `aplikasikasiromod`.`#sql-35bc_12` (errno: 150 "Foreign key constraint is incorrectly formed")
+					Data:       1 entries
+							'Server Error Code'		'1005'
+					Stack trace:
+
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)
+					InnerException is null
+
+--------------------------------------------------------------------------------
+Loaded assemblies
+	Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll
+	Anonymously Hosted DynamicMethods Assembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=InMemory Module
+	AplikasiKasirOmod.Module, Version=1.0.6834.40303, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.dll
+	AplikasiKasirOmod.Module.Win, Version=1.0.6834.40306, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.Win.dll
+	AplikasiKasirOmod.Win, Version=1.0.6834.40307, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.exe
+	bkop0skg, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=
+	DevExpress.BonusSkins.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.BonusSkins.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.BonusSkins.v17.2.dll
+	DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Data.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Data.v17.2.dll
+	DevExpress.ExpressApp.Images.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Images.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Images.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.Win.v17.2.dll
+	DevExpress.ExpressApp.Security.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.v17.2.dll
+	DevExpress.ExpressApp.Security.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.Xpo.v17.2.dll
+	DevExpress.ExpressApp.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.v17.2.dll
+	DevExpress.ExpressApp.Validation.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.v17.2.dll
+	DevExpress.ExpressApp.Validation.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.Win.v17.2.dll
+	DevExpress.ExpressApp.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Win.v17.2.dll
+	DevExpress.ExpressApp.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Xpo.v17.2.dll
+	DevExpress.Mvvm.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Mvvm.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Mvvm.v17.2.dll
+	DevExpress.Office.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Office.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Office.v17.2.Core.dll
+	DevExpress.Persistent.Base.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.Base.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.Base.v17.2.dll
+	DevExpress.Persistent.BaseImpl.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.BaseImpl.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.BaseImpl.v17.2.dll
+	DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Printing.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Printing.v17.2.Core.dll
+	DevExpress.RichEdit.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.RichEdit.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.RichEdit.v17.2.Core.dll
+	DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Utils.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Utils.v17.2.dll
+	DevExpress.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Xpo.v17.2.dll
+	DevExpress.XtraBars.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraBars.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraBars.v17.2.dll
+	DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraEditors.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraEditors.v17.2.dll
+	DevExpress.XtraLayout.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraLayout.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraLayout.v17.2.dll
+	DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraPrinting.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraPrinting.v17.2.dll
+	DevExpress.XtraReports.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.dll
+	DevExpress.XtraReports.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2.Extensions\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.Extensions.dll
+	DevExpress.XtraRichEdit.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraRichEdit.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraRichEdit.v17.2.dll
+	DevExpress.XtraTreeList.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraTreeList.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraTreeList.v17.2.dll
+	DevExpress.XtraVerticalGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraVerticalGrid.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraVerticalGrid.v17.2.dll
+	Microsoft.VisualStudio.Debugger.Runtime, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities.Sync, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll
+	Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC\Microsoft.VisualStudio.OLE.Interop\7.1.40304.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.OLE.Interop.dll
+	mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+	MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\MySql.Data\v4.0_8.0.11.0__c5687fc88969c44d\MySql.Data.dll
+	PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll
+	PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll
+	System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll
+	System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll
+	System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+	System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll
+	System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+	System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll
+	System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll
+	System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll
+	System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll
+	System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll
+	System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll
+	System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+	System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll
+	System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll
+	System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll
+	System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll
+	System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll
+	UIAutomationClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationClient\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationClient.dll
+	UIAutomationTypes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+	vshost32, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.vshost.exe
+	WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll
+	WpfXamlDiagnosticsTap, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\Users\USER\AppData\Local\Temp\VisualStudio.XamlDiagnostics.4976\WpfXamlDiagnosticsTap.dll
+================================================================================
+
+AplikasiKasirOmod.Win.vshost.exe Error: 0 : 17.09.18 22:23:48.453	================================================================================
+The error occurred:
+
+	Type:       UnableToCreateDBObjectException
+	Message:    Unable to create 'ForeignKey' 'FK_MasterBarang_Stock'. Parent: 'MasterBarang'. Error: Executing Sql 'alter table `MasterBarang` add constraint `FK_MasterBarang_Stock` foreign key (`Stock`) references `Stock`(`Oid`)' with parameters '' exception 'MySql.Data.MySqlClient.MySqlException (0x80004005): Can't create table `aplikasikasiromod`.`#sql-35bc_12` (errno: 150 "Foreign key constraint is incorrectly formed")
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)'
+	Data:       0 entries
+	Stack trace:
+
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecuteSqlSchemaUpdate(String objectTypeName, String objectName, String parentObjectName, String textSql)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.CreateForeignKey(DBTable table, DBForeignKey fk)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ProcessUpdateSchema(Boolean skipIfFirstTableNotExists, DBTable[] tables)
+   at DevExpress.Xpo.DB.DataStoreSerializedBase.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.DB.DataStoreForkBase.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.SimpleDataLayer.<>c__DisplayClass4.<UpdateSchema>b__3()
+   at DevExpress.Xpo.SimpleDataLayer.ReentrancyAndThreadSafetyChecked[T](Func`1 action)
+   at DevExpress.Xpo.SimpleDataLayer.UpdateSchema(Boolean dontCreate, XPClassInfo[] types)
+   at DevExpress.Xpo.SimpleObjectLayer.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, XPClassInfo[] types)
+   at DevExpress.Xpo.Session.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, XPClassInfo[] types)
+   at DevExpress.Xpo.Session.UpdateSchema(XPClassInfo[] types)
+   at DevExpress.ExpressApp.Xpo.XPObjectSpaceProvider.DevExpress.ExpressApp.IObjectSpaceProvider.UpdateSchema()
+   at DevExpress.ExpressApp.Updating.DatabaseUpdaterBase.UpdateCore(IObjectSpace updatingObjectSpace, IList`1 versionInfoList)
+   at DevExpress.ExpressApp.Updating.DatabaseSchemaUpdater.Update()
+   at AplikasiKasirOmod.Win.AplikasiKasirOmodWindowsFormsApplication.AplikasiKasirOmodWindowsFormsApplication_DatabaseVersionMismatch(Object sender, DatabaseVersionMismatchEventArgs e) in E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\WinApplication.cs:line 46
+   at DevExpress.ExpressApp.XafApplication.OnDatabaseVersionMismatch(DatabaseVersionMismatchEventArgs args)
+   at DevExpress.ExpressApp.XafApplication.CheckCompatibilityCore()
+   at DevExpress.ExpressApp.Win.WinApplication.CheckCompatibilityCore()
+   at DevExpress.ExpressApp.XafApplication.CheckCompatibility()
+   at DevExpress.ExpressApp.XafApplication.Logon(PopupWindowShowActionExecuteEventArgs logonWindowArgs)
+   at DevExpress.ExpressApp.Win.WinApplication.Logon(PopupWindowShowActionExecuteEventArgs logonWindowArgs)
+	----------------
+	InnerException:
+
+			Type:       SqlExecutionErrorException
+			Message:    Executing Sql 'alter table `MasterBarang` add constraint `FK_MasterBarang_Stock` foreign key (`Stock`) references `Stock`(`Oid`)' with parameters '' exception 'MySql.Data.MySqlClient.MySqlException (0x80004005): Can't create table `aplikasikasiromod`.`#sql-35bc_12` (errno: 150 "Foreign key constraint is incorrectly formed")
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)'
+			Data:       0 entries
+			Stack trace:
+
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecuteSqlSchemaUpdate(String objectTypeName, String objectName, String parentObjectName, String textSql)
+			----------------
+			InnerException:
+
+					Type:       MySqlException
+					Message:    Can't create table `aplikasikasiromod`.`#sql-35bc_12` (errno: 150 "Foreign key constraint is incorrectly formed")
+					Data:       1 entries
+							'Server Error Code'		'1005'
+					Stack trace:
+
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)
+					InnerException is null
+
+--------------------------------------------------------------------------------
+Loaded assemblies
+	Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll
+	Anonymously Hosted DynamicMethods Assembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=InMemory Module
+	AplikasiKasirOmod.Module, Version=1.0.6834.40303, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.dll
+	AplikasiKasirOmod.Module.Win, Version=1.0.6834.40306, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.Win.dll
+	AplikasiKasirOmod.Win, Version=1.0.6834.40307, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.exe
+	bkop0skg, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=
+	DevExpress.BonusSkins.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.BonusSkins.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.BonusSkins.v17.2.dll
+	DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Data.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Data.v17.2.dll
+	DevExpress.ExpressApp.Images.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Images.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Images.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.Win.v17.2.dll
+	DevExpress.ExpressApp.Security.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.v17.2.dll
+	DevExpress.ExpressApp.Security.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.Xpo.v17.2.dll
+	DevExpress.ExpressApp.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.v17.2.dll
+	DevExpress.ExpressApp.Validation.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.v17.2.dll
+	DevExpress.ExpressApp.Validation.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.Win.v17.2.dll
+	DevExpress.ExpressApp.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Win.v17.2.dll
+	DevExpress.ExpressApp.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Xpo.v17.2.dll
+	DevExpress.Mvvm.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Mvvm.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Mvvm.v17.2.dll
+	DevExpress.Office.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Office.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Office.v17.2.Core.dll
+	DevExpress.Persistent.Base.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.Base.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.Base.v17.2.dll
+	DevExpress.Persistent.BaseImpl.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.BaseImpl.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.BaseImpl.v17.2.dll
+	DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Printing.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Printing.v17.2.Core.dll
+	DevExpress.RichEdit.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.RichEdit.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.RichEdit.v17.2.Core.dll
+	DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Utils.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Utils.v17.2.dll
+	DevExpress.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Xpo.v17.2.dll
+	DevExpress.XtraBars.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraBars.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraBars.v17.2.dll
+	DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraEditors.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraEditors.v17.2.dll
+	DevExpress.XtraLayout.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraLayout.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraLayout.v17.2.dll
+	DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraPrinting.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraPrinting.v17.2.dll
+	DevExpress.XtraReports.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.dll
+	DevExpress.XtraReports.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2.Extensions\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.Extensions.dll
+	DevExpress.XtraRichEdit.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraRichEdit.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraRichEdit.v17.2.dll
+	DevExpress.XtraTreeList.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraTreeList.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraTreeList.v17.2.dll
+	DevExpress.XtraVerticalGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraVerticalGrid.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraVerticalGrid.v17.2.dll
+	Microsoft.VisualStudio.Debugger.Runtime, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities.Sync, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll
+	Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC\Microsoft.VisualStudio.OLE.Interop\7.1.40304.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.OLE.Interop.dll
+	mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+	MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\MySql.Data\v4.0_8.0.11.0__c5687fc88969c44d\MySql.Data.dll
+	PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll
+	PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll
+	System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll
+	System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll
+	System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+	System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll
+	System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+	System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll
+	System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll
+	System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll
+	System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll
+	System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll
+	System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll
+	System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+	System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll
+	System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll
+	System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll
+	System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll
+	System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll
+	UIAutomationClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationClient\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationClient.dll
+	UIAutomationTypes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+	vshost32, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.vshost.exe
+	WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll
+	WpfXamlDiagnosticsTap, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\Users\USER\AppData\Local\Temp\VisualStudio.XamlDiagnostics.4976\WpfXamlDiagnosticsTap.dll
+================================================================================
+
+17.09.18 22:23:55.355	Action '0e12f866-e497-439c-af55-00e9b75db009' done
+17.09.18 22:23:55.358	Action 'Logon' done
+17.09.18 22:23:56.507	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:23:56.508		Type: DevExpress.ExpressApp.Actions.SimpleAction
+								ID: DialogCancel
+								Category: PopupActions
+								Controller.Name: DevExpress.ExpressApp.LogonController
+								Context.Name: Log On
+								Context.IsRoot: True
+								Context.SelectedObjects.Count: 1
+								Context.CurrentObject: DevExpress.ExpressApp.Security.AuthenticationStandardLogonParameters
+
+17.09.18 22:23:56.510	Window closing: Log On
+17.09.18 22:23:56.536	Action 'DialogCancel' done
+17.09.18 22:23:56.538	Window closed: Log On
+17.09.18 22:23:56.675	Application stopping
+=====================
+17.09.18 22:25:08.856	================================================================================
+17.09.18 22:25:08.881	Trace Log for AplikasiKasirOmod.Win.vshost.exe is started
+17.09.18 22:25:08.882	================================================================================
+17.09.18 22:25:08.884	System Environment
+	OS Version: Microsoft Windows NT 6.2.9200.0
+	.Net Framework Versions: v2.0.50727, v4.0.30319
+
+	CLR Version: 4.0.30319.42000
+	eXpressApp Version: 17.2.3.0
+Application config
+	Modules=
+	NewVersionServer=
+	EnableDiagnosticActions=False
+17.09.18 22:25:09.049	Initialize application
+=======================
+17.09.18 22:25:09.050		Command line arguments: 
+		E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.vshost.exe
+17.09.18 22:25:09.685	--------------------------------------------------------------------------------
+							Initialize Modules Manager
+
+17.09.18 22:25:09.687	--------------------------------------------------------------------------------
+							
+
+17.09.18 22:25:09.692	--------------------------------------------------------------------------------
+Loaded assemblies
+	Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll
+	Anonymously Hosted DynamicMethods Assembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=InMemory Module
+	AplikasiKasirOmod.Module, Version=1.0.6834.40353, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.dll
+	AplikasiKasirOmod.Module.Win, Version=1.0.6834.40353, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.Win.dll
+	AplikasiKasirOmod.Win, Version=1.0.6834.40354, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.exe
+	DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Data.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Data.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.Win.v17.2.dll
+	DevExpress.ExpressApp.Security.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.v17.2.dll
+	DevExpress.ExpressApp.Security.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.Xpo.v17.2.dll
+	DevExpress.ExpressApp.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.v17.2.dll
+	DevExpress.ExpressApp.Validation.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.v17.2.dll
+	DevExpress.ExpressApp.Validation.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.Win.v17.2.dll
+	DevExpress.ExpressApp.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Win.v17.2.dll
+	DevExpress.ExpressApp.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Xpo.v17.2.dll
+	DevExpress.Office.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Office.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Office.v17.2.Core.dll
+	DevExpress.Persistent.Base.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.Base.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.Base.v17.2.dll
+	DevExpress.Persistent.BaseImpl.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.BaseImpl.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.BaseImpl.v17.2.dll
+	DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Printing.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Printing.v17.2.Core.dll
+	DevExpress.RichEdit.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.RichEdit.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.RichEdit.v17.2.Core.dll
+	DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Utils.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Utils.v17.2.dll
+	DevExpress.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Xpo.v17.2.dll
+	DevExpress.XtraBars.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraBars.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraBars.v17.2.dll
+	DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraEditors.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraEditors.v17.2.dll
+	DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraPrinting.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraPrinting.v17.2.dll
+	DevExpress.XtraReports.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.dll
+	DevExpress.XtraReports.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2.Extensions\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.Extensions.dll
+	DevExpress.XtraRichEdit.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraRichEdit.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraRichEdit.v17.2.dll
+	DevExpress.XtraTreeList.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraTreeList.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraTreeList.v17.2.dll
+	DevExpress.XtraVerticalGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraVerticalGrid.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraVerticalGrid.v17.2.dll
+	Microsoft.VisualStudio.Debugger.Runtime, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities.Sync, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll
+	mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+	System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll
+	System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+	System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll
+	System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+	System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll
+	System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll
+	System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll
+	System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll
+	System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll
+	UIAutomationClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationClient\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationClient.dll
+	UIAutomationTypes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+	vshost32, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.vshost.exe
+17.09.18 22:25:09.812	SetupModules
+17.09.18 22:25:09.973	Customize TypesInfo
+17.09.18 22:25:10.003	The ValueManagerType is initialized by the default value: SimpleValueManager.
+17.09.18 22:25:10.006	Stack trace:
+   at DevExpress.Persistent.Base.ValueManager.CreateValueManager[ValueType](String key)
+   at DevExpress.Persistent.Base.ValueManager.GetValueManager[ValueType](String key)
+   at DevExpress.ExpressApp.SecuritySystem.SetInstance(ISecurityStrategyBase instance)
+   at DevExpress.ExpressApp.XafApplication.InitializeSecuritySystem(ExpressApplicationSetupParameters parameters)
+   at DevExpress.ExpressApp.XafApplication.Setup(ExpressApplicationSetupParameters parameters)
+   at DevExpress.ExpressApp.XafApplication.Setup(String applicationName, IList`1 objectSpaceProviders, ApplicationModulesManager modulesManager, ISecurityStrategyBase security)
+   at DevExpress.ExpressApp.XafApplication.Setup()
+   at AplikasiKasirOmod.Win.Program.Main() in E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\Program.cs:line 46
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+
+17.09.18 22:25:11.536		preferredLanguageName: (User language)
+								userLanguageName: en-US
+
+17.09.18 22:25:11.539		preferredLanguageName: (User language)
+								userFormattingCultureName: en-US
+								selectedFormattingCultureName: 
+
+17.09.18 22:25:11.542	Logon With Parameters
+17.09.18 22:25:11.546		Type: DevExpress.ExpressApp.Actions.PopupWindowShowAction
+								ID: aa25f44d-b381-4b4b-856b-7227b04fbf9e
+								Category: Unspecified
+
+17.09.18 22:25:12.149	Generate default Model for Action containers
+17.09.18 22:25:14.318	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:25:14.320		Type: DevExpress.ExpressApp.Actions.SimpleAction
+								ID: Logon
+								Category: PopupActions
+								Controller.Name: DevExpress.ExpressApp.LogonController
+								Context.Name: Log On
+								Context.IsRoot: True
+								Context.SelectedObjects.Count: 1
+								Context.CurrentObject: DevExpress.ExpressApp.Security.AuthenticationStandardLogonParameters
+
+17.09.18 22:25:14.322	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:25:14.322		Type: DevExpress.ExpressApp.Actions.PopupWindowShowAction
+								ID: aa25f44d-b381-4b4b-856b-7227b04fbf9e
+								Category: Unspecified
+
+17.09.18 22:25:14.341	--------------------------------------------------------------------------------
+							Start logon process
+
+17.09.18 22:25:14.343	--------------------------------------------------------------------------------
+							Checking Compatibility
+
+17.09.18 22:25:14.346		ConnectionString: XpoProvider=MySql;Server=127.0.0.1;User ID=root;Database=AplikasiKasirOmod;SslMode=none;XpoDataStorePool=True;
+17.09.18 22:25:14.347		ConnectionString: 
+17.09.18 22:25:14.391	Resolve the 'MySql.Data' assembly
+17.09.18 22:25:14.950	--------------------------------------------------------------------------------
+							UpdateDB
+
+17.09.18 22:25:15.076		ConnectionString: XpoProvider=MySql;Server=127.0.0.1;User ID=root;Database=AplikasiKasirOmod;SslMode=none;XpoDataStorePool=True;
+17.09.18 22:25:15.606	--------------------------------------------------------------------------------
+							Logon failed
+
+AplikasiKasirOmod.Win.vshost.exe Error: 0 : 17.09.18 22:25:15.611	================================================================================
+The error occurred:
+
+	Type:       UnableToCreateDBObjectException
+	Message:    Unable to create 'ForeignKey' 'FK_MasterBarang_Stock'. Parent: 'MasterBarang'. Error: Executing Sql 'alter table `MasterBarang` add constraint `FK_MasterBarang_Stock` foreign key (`Stock`) references `Stock`(`OID`)' with parameters '' exception 'MySql.Data.MySqlClient.MySqlException (0x80004005): Can't create table `aplikasikasiromod`.`#sql-35bc_13` (errno: 150 "Foreign key constraint is incorrectly formed")
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)'
+	Data:       0 entries
+	Stack trace:
+
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecuteSqlSchemaUpdate(String objectTypeName, String objectName, String parentObjectName, String textSql)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.CreateForeignKey(DBTable table, DBForeignKey fk)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ProcessUpdateSchema(Boolean skipIfFirstTableNotExists, DBTable[] tables)
+   at DevExpress.Xpo.DB.DataStoreSerializedBase.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.DB.DataStoreForkBase.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.SimpleDataLayer.<>c__DisplayClass4.<UpdateSchema>b__3()
+   at DevExpress.Xpo.SimpleDataLayer.ReentrancyAndThreadSafetyChecked[T](Func`1 action)
+   at DevExpress.Xpo.SimpleDataLayer.UpdateSchema(Boolean dontCreate, XPClassInfo[] types)
+   at DevExpress.Xpo.SimpleObjectLayer.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, XPClassInfo[] types)
+   at DevExpress.Xpo.Session.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, XPClassInfo[] types)
+   at DevExpress.Xpo.Session.UpdateSchema(XPClassInfo[] types)
+   at DevExpress.ExpressApp.Xpo.XPObjectSpaceProvider.DevExpress.ExpressApp.IObjectSpaceProvider.UpdateSchema()
+   at DevExpress.ExpressApp.Updating.DatabaseUpdaterBase.UpdateCore(IObjectSpace updatingObjectSpace, IList`1 versionInfoList)
+   at DevExpress.ExpressApp.Updating.DatabaseSchemaUpdater.Update()
+   at AplikasiKasirOmod.Win.AplikasiKasirOmodWindowsFormsApplication.AplikasiKasirOmodWindowsFormsApplication_DatabaseVersionMismatch(Object sender, DatabaseVersionMismatchEventArgs e) in E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\WinApplication.cs:line 46
+   at DevExpress.ExpressApp.XafApplication.OnDatabaseVersionMismatch(DatabaseVersionMismatchEventArgs args)
+   at DevExpress.ExpressApp.XafApplication.CheckCompatibilityCore()
+   at DevExpress.ExpressApp.Win.WinApplication.CheckCompatibilityCore()
+   at DevExpress.ExpressApp.XafApplication.CheckCompatibility()
+   at DevExpress.ExpressApp.XafApplication.Logon(PopupWindowShowActionExecuteEventArgs logonWindowArgs)
+	----------------
+	InnerException:
+
+			Type:       SqlExecutionErrorException
+			Message:    Executing Sql 'alter table `MasterBarang` add constraint `FK_MasterBarang_Stock` foreign key (`Stock`) references `Stock`(`OID`)' with parameters '' exception 'MySql.Data.MySqlClient.MySqlException (0x80004005): Can't create table `aplikasikasiromod`.`#sql-35bc_13` (errno: 150 "Foreign key constraint is incorrectly formed")
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)'
+			Data:       0 entries
+			Stack trace:
+
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecuteSqlSchemaUpdate(String objectTypeName, String objectName, String parentObjectName, String textSql)
+			----------------
+			InnerException:
+
+					Type:       MySqlException
+					Message:    Can't create table `aplikasikasiromod`.`#sql-35bc_13` (errno: 150 "Foreign key constraint is incorrectly formed")
+					Data:       1 entries
+							'Server Error Code'		'1005'
+					Stack trace:
+
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)
+					InnerException is null
+
+--------------------------------------------------------------------------------
+Loaded assemblies
+	2eony3oh, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=
+	Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll
+	Anonymously Hosted DynamicMethods Assembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=InMemory Module
+	AplikasiKasirOmod.Module, Version=1.0.6834.40353, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.dll
+	AplikasiKasirOmod.Module.Win, Version=1.0.6834.40353, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.Win.dll
+	AplikasiKasirOmod.Win, Version=1.0.6834.40354, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.exe
+	DevExpress.BonusSkins.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.BonusSkins.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.BonusSkins.v17.2.dll
+	DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Data.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Data.v17.2.dll
+	DevExpress.ExpressApp.Images.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Images.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Images.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.Win.v17.2.dll
+	DevExpress.ExpressApp.Security.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.v17.2.dll
+	DevExpress.ExpressApp.Security.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.Xpo.v17.2.dll
+	DevExpress.ExpressApp.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.v17.2.dll
+	DevExpress.ExpressApp.Validation.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.v17.2.dll
+	DevExpress.ExpressApp.Validation.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.Win.v17.2.dll
+	DevExpress.ExpressApp.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Win.v17.2.dll
+	DevExpress.ExpressApp.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Xpo.v17.2.dll
+	DevExpress.Mvvm.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Mvvm.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Mvvm.v17.2.dll
+	DevExpress.Office.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Office.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Office.v17.2.Core.dll
+	DevExpress.Persistent.Base.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.Base.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.Base.v17.2.dll
+	DevExpress.Persistent.BaseImpl.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.BaseImpl.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.BaseImpl.v17.2.dll
+	DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Printing.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Printing.v17.2.Core.dll
+	DevExpress.RichEdit.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.RichEdit.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.RichEdit.v17.2.Core.dll
+	DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Utils.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Utils.v17.2.dll
+	DevExpress.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Xpo.v17.2.dll
+	DevExpress.XtraBars.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraBars.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraBars.v17.2.dll
+	DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraEditors.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraEditors.v17.2.dll
+	DevExpress.XtraLayout.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraLayout.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraLayout.v17.2.dll
+	DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraPrinting.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraPrinting.v17.2.dll
+	DevExpress.XtraReports.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.dll
+	DevExpress.XtraReports.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2.Extensions\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.Extensions.dll
+	DevExpress.XtraRichEdit.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraRichEdit.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraRichEdit.v17.2.dll
+	DevExpress.XtraTreeList.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraTreeList.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraTreeList.v17.2.dll
+	DevExpress.XtraVerticalGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraVerticalGrid.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraVerticalGrid.v17.2.dll
+	Microsoft.VisualStudio.Debugger.Runtime, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities.Sync, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll
+	Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC\Microsoft.VisualStudio.OLE.Interop\7.1.40304.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.OLE.Interop.dll
+	mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+	MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\MySql.Data\v4.0_8.0.11.0__c5687fc88969c44d\MySql.Data.dll
+	PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll
+	PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll
+	System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll
+	System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll
+	System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+	System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll
+	System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+	System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll
+	System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll
+	System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll
+	System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll
+	System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll
+	System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll
+	System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+	System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll
+	System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll
+	System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll
+	System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll
+	System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll
+	UIAutomationClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationClient\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationClient.dll
+	UIAutomationTypes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+	vshost32, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.vshost.exe
+	WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll
+	WpfXamlDiagnosticsTap, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\Users\USER\AppData\Local\Temp\VisualStudio.XamlDiagnostics.9804\WpfXamlDiagnosticsTap.dll
+================================================================================
+
+AplikasiKasirOmod.Win.vshost.exe Error: 0 : 17.09.18 22:25:15.646	================================================================================
+The error occurred:
+
+	Type:       UnableToCreateDBObjectException
+	Message:    Unable to create 'ForeignKey' 'FK_MasterBarang_Stock'. Parent: 'MasterBarang'. Error: Executing Sql 'alter table `MasterBarang` add constraint `FK_MasterBarang_Stock` foreign key (`Stock`) references `Stock`(`OID`)' with parameters '' exception 'MySql.Data.MySqlClient.MySqlException (0x80004005): Can't create table `aplikasikasiromod`.`#sql-35bc_13` (errno: 150 "Foreign key constraint is incorrectly formed")
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)'
+	Data:       0 entries
+	Stack trace:
+
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecuteSqlSchemaUpdate(String objectTypeName, String objectName, String parentObjectName, String textSql)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.CreateForeignKey(DBTable table, DBForeignKey fk)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ProcessUpdateSchema(Boolean skipIfFirstTableNotExists, DBTable[] tables)
+   at DevExpress.Xpo.DB.DataStoreSerializedBase.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.DB.DataStoreForkBase.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, DBTable[] tables)
+   at DevExpress.Xpo.SimpleDataLayer.<>c__DisplayClass4.<UpdateSchema>b__3()
+   at DevExpress.Xpo.SimpleDataLayer.ReentrancyAndThreadSafetyChecked[T](Func`1 action)
+   at DevExpress.Xpo.SimpleDataLayer.UpdateSchema(Boolean dontCreate, XPClassInfo[] types)
+   at DevExpress.Xpo.SimpleObjectLayer.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, XPClassInfo[] types)
+   at DevExpress.Xpo.Session.UpdateSchema(Boolean dontCreateIfFirstTableNotExist, XPClassInfo[] types)
+   at DevExpress.Xpo.Session.UpdateSchema(XPClassInfo[] types)
+   at DevExpress.ExpressApp.Xpo.XPObjectSpaceProvider.DevExpress.ExpressApp.IObjectSpaceProvider.UpdateSchema()
+   at DevExpress.ExpressApp.Updating.DatabaseUpdaterBase.UpdateCore(IObjectSpace updatingObjectSpace, IList`1 versionInfoList)
+   at DevExpress.ExpressApp.Updating.DatabaseSchemaUpdater.Update()
+   at AplikasiKasirOmod.Win.AplikasiKasirOmodWindowsFormsApplication.AplikasiKasirOmodWindowsFormsApplication_DatabaseVersionMismatch(Object sender, DatabaseVersionMismatchEventArgs e) in E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\WinApplication.cs:line 46
+   at DevExpress.ExpressApp.XafApplication.OnDatabaseVersionMismatch(DatabaseVersionMismatchEventArgs args)
+   at DevExpress.ExpressApp.XafApplication.CheckCompatibilityCore()
+   at DevExpress.ExpressApp.Win.WinApplication.CheckCompatibilityCore()
+   at DevExpress.ExpressApp.XafApplication.CheckCompatibility()
+   at DevExpress.ExpressApp.XafApplication.Logon(PopupWindowShowActionExecuteEventArgs logonWindowArgs)
+   at DevExpress.ExpressApp.Win.WinApplication.Logon(PopupWindowShowActionExecuteEventArgs logonWindowArgs)
+	----------------
+	InnerException:
+
+			Type:       SqlExecutionErrorException
+			Message:    Executing Sql 'alter table `MasterBarang` add constraint `FK_MasterBarang_Stock` foreign key (`Stock`) references `Stock`(`OID`)' with parameters '' exception 'MySql.Data.MySqlClient.MySqlException (0x80004005): Can't create table `aplikasikasiromod`.`#sql-35bc_13` (errno: 150 "Foreign key constraint is incorrectly formed")
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)'
+			Data:       0 entries
+			Stack trace:
+
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecuteSqlSchemaUpdate(String objectTypeName, String objectName, String parentObjectName, String textSql)
+			----------------
+			InnerException:
+
+					Type:       MySqlException
+					Message:    Can't create table `aplikasikasiromod`.`#sql-35bc_13` (errno: 150 "Foreign key constraint is incorrectly formed")
+					Data:       1 entries
+							'Server Error Code'		'1005'
+					Stack trace:
+
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at DevExpress.Xpo.DB.ConnectionProviderSql.<>c__DisplayClass2.<InternalExecSql>b__0()
+   at DevExpress.Xpo.Logger.LogManager.Log[T](String category, LogHandler`1 handler, MessageHandler`1 createMessageHandler)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.InternalExecSql(IDbCommand command)
+   at DevExpress.Xpo.DB.ConnectionProviderSql.ExecSql(Query query)
+					InnerException is null
+
+--------------------------------------------------------------------------------
+Loaded assemblies
+	2eony3oh, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=
+	Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll
+	Anonymously Hosted DynamicMethods Assembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=InMemory Module
+	AplikasiKasirOmod.Module, Version=1.0.6834.40353, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.dll
+	AplikasiKasirOmod.Module.Win, Version=1.0.6834.40353, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.Win.dll
+	AplikasiKasirOmod.Win, Version=1.0.6834.40354, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.exe
+	DevExpress.BonusSkins.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.BonusSkins.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.BonusSkins.v17.2.dll
+	DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Data.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Data.v17.2.dll
+	DevExpress.ExpressApp.Images.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Images.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Images.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.Win.v17.2.dll
+	DevExpress.ExpressApp.Security.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.v17.2.dll
+	DevExpress.ExpressApp.Security.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.Xpo.v17.2.dll
+	DevExpress.ExpressApp.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.v17.2.dll
+	DevExpress.ExpressApp.Validation.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.v17.2.dll
+	DevExpress.ExpressApp.Validation.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.Win.v17.2.dll
+	DevExpress.ExpressApp.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Win.v17.2.dll
+	DevExpress.ExpressApp.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Xpo.v17.2.dll
+	DevExpress.Mvvm.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Mvvm.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Mvvm.v17.2.dll
+	DevExpress.Office.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Office.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Office.v17.2.Core.dll
+	DevExpress.Persistent.Base.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.Base.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.Base.v17.2.dll
+	DevExpress.Persistent.BaseImpl.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.BaseImpl.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.BaseImpl.v17.2.dll
+	DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Printing.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Printing.v17.2.Core.dll
+	DevExpress.RichEdit.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.RichEdit.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.RichEdit.v17.2.Core.dll
+	DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Utils.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Utils.v17.2.dll
+	DevExpress.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Xpo.v17.2.dll
+	DevExpress.XtraBars.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraBars.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraBars.v17.2.dll
+	DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraEditors.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraEditors.v17.2.dll
+	DevExpress.XtraLayout.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraLayout.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraLayout.v17.2.dll
+	DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraPrinting.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraPrinting.v17.2.dll
+	DevExpress.XtraReports.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.dll
+	DevExpress.XtraReports.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2.Extensions\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.Extensions.dll
+	DevExpress.XtraRichEdit.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraRichEdit.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraRichEdit.v17.2.dll
+	DevExpress.XtraTreeList.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraTreeList.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraTreeList.v17.2.dll
+	DevExpress.XtraVerticalGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraVerticalGrid.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraVerticalGrid.v17.2.dll
+	Microsoft.VisualStudio.Debugger.Runtime, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities.Sync, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll
+	Microsoft.VisualStudio.OLE.Interop, Version=7.1.40304.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC\Microsoft.VisualStudio.OLE.Interop\7.1.40304.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.OLE.Interop.dll
+	mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+	MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\MySql.Data\v4.0_8.0.11.0__c5687fc88969c44d\MySql.Data.dll
+	PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll
+	PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll
+	System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll
+	System.ComponentModel.DataAnnotations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll
+	System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+	System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll
+	System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+	System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll
+	System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll
+	System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll
+	System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll
+	System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll
+	System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll
+	System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+	System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll
+	System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll
+	System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll
+	System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll
+	System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll
+	UIAutomationClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationClient\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationClient.dll
+	UIAutomationTypes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+	vshost32, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.vshost.exe
+	WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll
+	WpfXamlDiagnosticsTap, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\Users\USER\AppData\Local\Temp\VisualStudio.XamlDiagnostics.9804\WpfXamlDiagnosticsTap.dll
+================================================================================
+
+17.09.18 22:25:37.220	Action 'aa25f44d-b381-4b4b-856b-7227b04fbf9e' done
+17.09.18 22:25:37.222	Action 'Logon' done
+17.09.18 22:25:38.261	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:25:38.263		Type: DevExpress.ExpressApp.Actions.SimpleAction
+								ID: DialogCancel
+								Category: PopupActions
+								Controller.Name: DevExpress.ExpressApp.LogonController
+								Context.Name: Log On
+								Context.IsRoot: True
+								Context.SelectedObjects.Count: 1
+								Context.CurrentObject: DevExpress.ExpressApp.Security.AuthenticationStandardLogonParameters
+
+17.09.18 22:25:38.265	Window closing: Log On
+17.09.18 22:25:38.290	Action 'DialogCancel' done
+17.09.18 22:25:38.293	Window closed: Log On
+17.09.18 22:25:38.431	Application stopping
+=====================
+17.09.18 22:30:46.590	================================================================================
+17.09.18 22:30:46.613	Trace Log for AplikasiKasirOmod.Win.vshost.exe is started
+17.09.18 22:30:46.614	================================================================================
+17.09.18 22:30:46.616	System Environment
+	OS Version: Microsoft Windows NT 6.2.9200.0
+	.Net Framework Versions: v2.0.50727, v4.0.30319
+
+	CLR Version: 4.0.30319.42000
+	eXpressApp Version: 17.2.3.0
+Application config
+	Modules=
+	NewVersionServer=
+	EnableDiagnosticActions=False
+17.09.18 22:30:46.786	Initialize application
+=======================
+17.09.18 22:30:46.787		Command line arguments: 
+		E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.vshost.exe
+17.09.18 22:30:47.337	--------------------------------------------------------------------------------
+							Initialize Modules Manager
+
+17.09.18 22:30:47.339	--------------------------------------------------------------------------------
+							
+
+17.09.18 22:30:47.345	--------------------------------------------------------------------------------
+Loaded assemblies
+	Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll
+	Anonymously Hosted DynamicMethods Assembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null, Location=InMemory Module
+	AplikasiKasirOmod.Module, Version=1.0.6834.40522, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.dll
+	AplikasiKasirOmod.Module.Win, Version=1.0.6834.40522, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Module.Win.dll
+	AplikasiKasirOmod.Win, Version=1.0.6834.40522, Culture=neutral, PublicKeyToken=null, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.exe
+	DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Data.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Data.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.v17.2.dll
+	DevExpress.ExpressApp.ReportsV2.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.ReportsV2.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.ReportsV2.Win.v17.2.dll
+	DevExpress.ExpressApp.Security.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.v17.2.dll
+	DevExpress.ExpressApp.Security.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Security.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Security.Xpo.v17.2.dll
+	DevExpress.ExpressApp.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.v17.2.dll
+	DevExpress.ExpressApp.Validation.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.v17.2.dll
+	DevExpress.ExpressApp.Validation.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Validation.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Validation.Win.v17.2.dll
+	DevExpress.ExpressApp.Win.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Win.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Win.v17.2.dll
+	DevExpress.ExpressApp.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.ExpressApp.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.ExpressApp.Xpo.v17.2.dll
+	DevExpress.Office.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Office.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Office.v17.2.Core.dll
+	DevExpress.Persistent.Base.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.Base.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.Base.v17.2.dll
+	DevExpress.Persistent.BaseImpl.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Persistent.BaseImpl.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Persistent.BaseImpl.v17.2.dll
+	DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Printing.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Printing.v17.2.Core.dll
+	DevExpress.RichEdit.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.RichEdit.v17.2.Core\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.RichEdit.v17.2.Core.dll
+	DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Utils.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Utils.v17.2.dll
+	DevExpress.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.Xpo.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.Xpo.v17.2.dll
+	DevExpress.XtraBars.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraBars.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraBars.v17.2.dll
+	DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraEditors.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraEditors.v17.2.dll
+	DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraPrinting.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraPrinting.v17.2.dll
+	DevExpress.XtraReports.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.dll
+	DevExpress.XtraReports.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraReports.v17.2.Extensions\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraReports.v17.2.Extensions.dll
+	DevExpress.XtraRichEdit.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraRichEdit.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraRichEdit.v17.2.dll
+	DevExpress.XtraTreeList.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraTreeList.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraTreeList.v17.2.dll
+	DevExpress.XtraVerticalGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\DevExpress.XtraVerticalGrid.v17.2\v4.0_17.2.3.0__b88d1754d700e49a\DevExpress.XtraVerticalGrid.v17.2.dll
+	Microsoft.VisualStudio.Debugger.Runtime, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll
+	Microsoft.VisualStudio.HostingProcess.Utilities.Sync, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll
+	mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll
+	System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll
+	System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll
+	System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll
+	System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+	System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Design\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Design.dll
+	System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll
+	System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll
+	System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll
+	System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll
+	UIAutomationClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationClient\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationClient.dll
+	UIAutomationTypes, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Location=C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll
+	vshost32, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, Location=E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\bin\Debug\AplikasiKasirOmod.Win.vshost.exe
+17.09.18 22:30:47.464	SetupModules
+17.09.18 22:30:47.624	Customize TypesInfo
+17.09.18 22:30:47.648	The ValueManagerType is initialized by the default value: SimpleValueManager.
+17.09.18 22:30:47.652	Stack trace:
+   at DevExpress.Persistent.Base.ValueManager.CreateValueManager[ValueType](String key)
+   at DevExpress.Persistent.Base.ValueManager.GetValueManager[ValueType](String key)
+   at DevExpress.ExpressApp.SecuritySystem.SetInstance(ISecurityStrategyBase instance)
+   at DevExpress.ExpressApp.XafApplication.InitializeSecuritySystem(ExpressApplicationSetupParameters parameters)
+   at DevExpress.ExpressApp.XafApplication.Setup(ExpressApplicationSetupParameters parameters)
+   at DevExpress.ExpressApp.XafApplication.Setup(String applicationName, IList`1 objectSpaceProviders, ApplicationModulesManager modulesManager, ISecurityStrategyBase security)
+   at DevExpress.ExpressApp.XafApplication.Setup()
+   at AplikasiKasirOmod.Win.Program.Main() in E:\Project\Hello World Startup\Project\Development Project\C#\Devexpress\AplikasiKasirOmod\AplikasiKasirOmod.Win\Program.cs:line 46
+   at System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssembly()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+
+17.09.18 22:30:49.250		preferredLanguageName: (User language)
+								userLanguageName: en-US
+
+17.09.18 22:30:49.253		preferredLanguageName: (User language)
+								userFormattingCultureName: en-US
+								selectedFormattingCultureName: 
+
+17.09.18 22:30:49.255	Logon With Parameters
+17.09.18 22:30:49.259		Type: DevExpress.ExpressApp.Actions.PopupWindowShowAction
+								ID: 803ba720-5640-48c8-9a94-813dd07e6c04
+								Category: Unspecified
+
+17.09.18 22:30:49.856	Generate default Model for Action containers
+17.09.18 22:30:51.742	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:30:51.743		Type: DevExpress.ExpressApp.Actions.SimpleAction
+								ID: Logon
+								Category: PopupActions
+								Controller.Name: DevExpress.ExpressApp.LogonController
+								Context.Name: Log On
+								Context.IsRoot: True
+								Context.SelectedObjects.Count: 1
+								Context.CurrentObject: DevExpress.ExpressApp.Security.AuthenticationStandardLogonParameters
+
+17.09.18 22:30:51.745	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:30:51.746		Type: DevExpress.ExpressApp.Actions.PopupWindowShowAction
+								ID: 803ba720-5640-48c8-9a94-813dd07e6c04
+								Category: Unspecified
+
+17.09.18 22:30:51.766	--------------------------------------------------------------------------------
+							Start logon process
+
+17.09.18 22:30:51.768	--------------------------------------------------------------------------------
+							Checking Compatibility
+
+17.09.18 22:30:51.771		ConnectionString: XpoProvider=MySql;Server=127.0.0.1;User ID=root;Database=AplikasiKasirOmod;SslMode=none;XpoDataStorePool=True;
+17.09.18 22:30:51.772		ConnectionString: 
+17.09.18 22:30:51.830	Resolve the 'MySql.Data' assembly
+17.09.18 22:30:52.450	--------------------------------------------------------------------------------
+							UpdateDB
+
+17.09.18 22:30:52.455		ConnectionString: XpoProvider=MySql;Server=127.0.0.1;User ID=root;Database=AplikasiKasirOmod;SslMode=none;XpoDataStorePool=True;
+17.09.18 22:30:55.034	--------------------------------------------------------------------------------
+							Logon successful
+
+17.09.18 22:30:55.077	--------------------------------------------------------------------------------
+							Logon completed
+
+17.09.18 22:30:55.115	Action '803ba720-5640-48c8-9a94-813dd07e6c04' done
+17.09.18 22:30:55.118	Window closing: Log On
+17.09.18 22:30:55.144	Action 'Logon' done
+17.09.18 22:30:55.146	Window closed: Log On
+17.09.18 22:30:55.292		startUpActions: 1
+17.09.18 22:30:55.313	--------------------------------------------------------------------------------
+							Initialize 'ShowNavigationItem' action items
+
+17.09.18 22:30:55.343	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:30:55.344		Type: DevExpress.ExpressApp.Actions.SingleChoiceAction
+								ID: ChooseSkin
+								Category: Appearance
+								Controller.Name: DevExpress.ExpressApp.Win.SystemModule.ChooseSkinController
+
+17.09.18 22:30:55.345		SelectedItem: Office 2013 Light Gray
+17.09.18 22:30:55.346	Action 'ChooseSkin' done
+17.09.18 22:30:56.887	Resolve the 'DevExpress.ExpressApp.Win.v17.2.XmlSerializers, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a' assembly
+17.09.18 22:30:56.931	Resolve the 'DevExpress.ExpressApp.Win.v17.2.XmlSerializers, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a' assembly
+17.09.18 22:30:58.177	Application startup done
+=========================
+17.09.18 22:30:58.178	Application running
+====================
+17.09.18 22:31:07.279	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:31:07.281		Type: DevExpress.ExpressApp.Actions.SingleChoiceAction
+								ID: ShowNavigationItem
+								Category: ViewsNavigation
+								Controller.Name: DevExpress.ExpressApp.SystemModule.ShowNavigationItemController
+
+17.09.18 22:31:07.281		SelectedItem: Stock
+17.09.18 22:31:07.474	Action 'ShowNavigationItem' done
+17.09.18 22:31:11.078	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:31:11.079		Type: DevExpress.ExpressApp.Actions.SingleChoiceAction
+								ID: ShowNavigationItem
+								Category: ViewsNavigation
+								Controller.Name: DevExpress.ExpressApp.SystemModule.ShowNavigationItemController
+
+17.09.18 22:31:11.080		SelectedItem: Menu[Master Menu,Detail Menu]
+17.09.18 22:31:11.083	Action 'ShowNavigationItem' done
+17.09.18 22:31:12.871	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:31:12.873		Type: DevExpress.ExpressApp.Actions.SingleChoiceAction
+								ID: ShowNavigationItem
+								Category: ViewsNavigation
+								Controller.Name: DevExpress.ExpressApp.SystemModule.ShowNavigationItemController
+
+17.09.18 22:31:12.873		SelectedItem: Master Barang
+17.09.18 22:31:12.953	Action 'ShowNavigationItem' done
+17.09.18 22:31:13.045	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:31:13.047		Type: DevExpress.ExpressApp.Actions.SingleChoiceAction
+								ID: ShowNavigationItem
+								Category: ViewsNavigation
+								Controller.Name: DevExpress.ExpressApp.SystemModule.ShowNavigationItemController
+
+17.09.18 22:31:13.047		SelectedItem: Master Barang
+17.09.18 22:31:13.050	Action 'ShowNavigationItem' done
+17.09.18 22:32:33.053	Window closing: Stock
+17.09.18 22:32:33.082	Window closed: Stock
+17.09.18 22:32:36.005	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:32:36.006		Type: DevExpress.ExpressApp.Actions.SingleChoiceAction
+								ID: ShowNavigationItem
+								Category: ViewsNavigation
+								Controller.Name: DevExpress.ExpressApp.SystemModule.ShowNavigationItemController
+
+17.09.18 22:32:36.006		SelectedItem: Kasir
+17.09.18 22:32:36.141	Action 'ShowNavigationItem' done
+17.09.18 22:32:37.426	--------------------------------------------------------------------------------
+							Execute action
+
+17.09.18 22:32:37.428		Type: DevExpress.ExpressApp.Actions.SingleChoiceAction
+								ID: New
+								Category: ObjectsCreation
+								Controller.Name: DevExpress.ExpressApp.Win.SystemModule.WinNewObjectViewController
+								Context.Name: Kasir
+								Context.IsRoot: True
+								Context.SelectedObjects.Count: 0
+								Context.CurrentObject: <not specified>
+
+17.09.18 22:32:37.428		SelectedItem: Kasir
+17.09.18 22:32:38.209	Action 'New' done
+17.09.18 22:33:29.941	Window closing: Master Barang
+17.09.18 22:33:29.943	Window closing: Kasir
+17.09.18 22:33:29.943	Window closing: Kasir
+17.09.18 22:33:29.945	ConfirmationRequest: NeedSaveChanges
+17.09.18 22:33:29.945		DefaultConfirmationResult: No
+17.09.18 22:33:31.114		UserConfirmationResult: No
+17.09.18 22:33:31.115	Window closing: Kasir - Aplikasi Kasir Omah Mode
+17.09.18 22:33:31.160	Window closed: Master Barang
+17.09.18 22:33:31.161	Window closed: Kasir
+17.09.18 22:33:31.162	Window closed: Kasir
+17.09.18 22:33:31.162	Window closed: Kasir - Aplikasi Kasir Omah Mode
+17.09.18 22:33:31.386	Save model changes
+===================
+17.09.18 22:33:31.506	Save model changes
+===================
+17.09.18 22:33:31.511	--------------------------------------------------------------------------------
+							Logoff completed
+
+17.09.18 22:33:31.512	Application stopping
+=====================

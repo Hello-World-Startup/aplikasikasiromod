@@ -19,7 +19,7 @@ namespace AplikasiKasirOmod.Module.BusinessObjects
     [NavigationItem("Master")]
     [DeferredDeletion(false)]
     public class MasterBarang : XPObject
-    { 
+    {
         public MasterBarang(Session session)
             : base(session)
         {
@@ -42,7 +42,7 @@ namespace AplikasiKasirOmod.Module.BusinessObjects
         {
             get { return _KodeBarang; }
         }
-        
+
         private string _NamaBarang;
         [Size(25)]
         public string NamaBarang
@@ -56,7 +56,7 @@ namespace AplikasiKasirOmod.Module.BusinessObjects
                 SetPropertyValue("NamaBarang", ref _NamaBarang, value);
             }
         }
-                
+
         private MasterKategori _Kategori;
         public MasterKategori Kategori
         {
@@ -69,13 +69,18 @@ namespace AplikasiKasirOmod.Module.BusinessObjects
                 SetPropertyValue("Kategori", ref _Kategori, value);
             }
         }
-
-        Stock _Stock;
-        [DevExpress.Xpo.Aggregated]
-        public Stock Stock
+        
+        private Stock _Jumlah;
+        public Stock Jumlah
         {
-            get { return _Stock; }
-            set { SetPropertyValue("Stock", ref _Stock, value); }
+            get
+            {
+                return _Jumlah;
+            }
+            set
+            {
+                SetPropertyValue("Jumlah", ref _Jumlah, value);
+            }
         }
         #endregion
 
