@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="Aplikasi Kasir Omah Mode" Company="Hello World Startup" Copyright="HWS2018" Description="Aplikasi Kasir Omah Mode ini dikembangkan oleh Hello World Startup Developer Teamm">
+  <BOModel>
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.DetailKasir" ImageName="BO_Invoice" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.DetailMenu" ImageName="ModelEditor_DashboardView" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.DetailPembelian" ImageName="BO_Order" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.DetailPenjualan" ImageName="BO_Sale_v92" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.Kasir" ImageName="BO_Invoice" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.MasterBarang" ImageName="BO_Product_Group" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.MasterKategori" ImageName="BO_Category" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.MasterMeja" ImageName="Navigation_Item_View" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.MasterMenu" ImageName="ModelEditor_DashboardView" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.MasterSatuan" ImageName="Action_Debug_Breakpoint_Toggle" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.MasterSupplier" ImageName="BO_Contact" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.Pembelian" ImageName="BO_Order" />
+    <Class Name="AplikasiKasirOmod.Module.BusinessObjects.Penjualan" ImageName="BO_Sale_v92" />
+  </BOModel>
+  <NavigationItems DefaultChildItemsDisplayStyle="LargeIcons" NavigationStyle="TreeList">
+    <Items>
+      <Item Id="Master" Index="0">
+        <Items>
+          <Item Id="MasterBarang_ListView" Index="0" />
+          <Item Id="MasterSatuan_ListView" Index="1" />
+          <Item Id="MasterSupplier_ListView" Index="2" />
+          <Item Id="MasterKategori_ListView" Index="3" />
+          <Item Id="MasterMeja_ListView" Index="4" />
+        </Items>
+      </Item>
+      <Item Id="Menu" Index="1">
+        <Items>
+          <Item Id="MasterMenu_ListView" Index="0" />
+          <Item Id="DetailMenu_ListView" Index="1" />
+        </Items>
+      </Item>
+      <Item Id="Kasir" Index="2">
+        <Items>
+          <Item Id="Kasir_ListView" Index="0" />
+          <Item Id="DetailKasir_ListView" Index="1" />
+        </Items>
+      </Item>
+      <Item Id="Pembelian" Index="3">
+        <Items>
+          <Item Id="Pembelian_ListView" Index="0" />
+          <Item Id="DetailPembelian_ListView" Index="1" />
+        </Items>
+      </Item>
+      <Item Id="Penjualan" Index="4">
+        <Items>
+          <Item Id="Penjualan_ListView" Index="0" />
+          <Item Id="DetailPenjualan_ListView" Index="1" />
+        </Items>
+      </Item>
+      <Item Id="Reports" Index="5" />
+    </Items>
+  </NavigationItems>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="17.2.3.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
